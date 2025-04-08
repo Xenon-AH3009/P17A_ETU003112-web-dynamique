@@ -1,0 +1,10 @@
+# Logs
+assets
+
+*.class
+*.lib
+
+node_modules
+# dist
+# dist-ssr
+*.local
